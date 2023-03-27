@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a tenure-track assisstant professor at [John Hopcroft Center (JHC) for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). My research interest mainly lies on Computer Vision, which includes, among others, image/video restoration and segmentation. I received my Ph.D. degree in [Department of Electrical & Computer Engineering](https://www.eng.mcmaster.ca/ece) at [McMaster University](https://www.mcmaster.ca/) in Nov. 2021, supervised by Prof. [Jun Chen](https://www.ece.mcmaster.ca/~junchen/). During the Ph.D., I visited [Computer Vision Lab](http://cvlab.cse.msu.edu/) at [Michigan State University](https://msu.edu/), where I'm adviced by Prof. [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).
 
-I was a recipient of the [2019-20 Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/). I also awarded an Alexander Graham Bell Canada Graduate Scholarship-Doctoral from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2020, and an Ontario Graduate Scholarship in 2019.
+I received the Chinese Government Award for Outstanding Self-financed Students Abroad in 2021, a Canada Graduate Scholarship from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2021, and an Ontario Graduate Scholarship in 2019. Besides, I was a recipient of the [2020 Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/).
 
 Prospective Students
 ======
