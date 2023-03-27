@@ -38,7 +38,7 @@ Selected Publications
     <p>
       <strong>[CVPR] Hierarchical Fine-Grained Image Forgery Detection and Localization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
       Xiao Guo, <u>Xiaohong Liu</u>, Zhiyuan Ren1, Steven Grosz1, Iacopo Masi3, Xiaoming Liu<br/>
-      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2023.</i> <br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</i> <br/>
     </p>
   </div>
 </div>
@@ -166,8 +166,4 @@ Services
 * Pattern Recognition
 
 ### Conference Reviewer:
-* European Conference on Computer Vision (ECCV), 2023
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022
-* IEEE/CVF International Conference on Computer Vision (ICCV), 2021
-* IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2020
-* Pacific Graphics (PG), 2020
+PG 2020, WACV 2020, ICCV 2021, CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023
