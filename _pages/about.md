@@ -44,7 +44,23 @@ Selected Publications
 </div>
 
 ---
-<!-- 2023Hierarchical -->
+<!-- 2022psccnet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2022psccnet.jpeg">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[CVPR] Video Frame Interpolation Transformer</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      Zhihao Shi*, Xiangyu Xu*, <u>Xiaohong Liu</u>, Jun Chen, and Ming-Hsuan Yang<br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022interpolation -->
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="images/publications/2023Hierarchical.png">  
