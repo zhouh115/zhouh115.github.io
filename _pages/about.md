@@ -130,7 +130,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/its22.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu†</u>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
       <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
     </p>
