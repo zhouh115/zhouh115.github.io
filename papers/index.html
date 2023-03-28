@@ -1,0 +1,362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta  http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0" />
+	<link rel="stylesheet" type="text/css" href="webpage/bootstrap.min.css"/>
+    <script language="javascript" src="webpage/jquery.min.js"></script>
+	<script language="javascript" src="webpage/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="webpage/cssReset.css"/>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+	<title>Xiaohong Liu's Homepage</title>
+	<meta name="description" content="Xiaohong Liu's Homepage - SJTU">
+	<meta name="keywords" content="Xiaohong Liu, SJTU">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167316452-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-167316452-1');
+    </script>  
+    <style>
+        ul.no-bullets {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        }
+    </style>
+
+</head>
+
+<body>
+    <style type='text/css'>
+        body{
+            font-family: Georgia, "Simsum";
+            font-size:15.5px;
+        }
+        /*
+            div.content:
+                provide the content div in the middle
+        */
+        body div.content{
+            /*width:1280px;*/
+            /* width:905px; */
+            width:60%;
+            margin:0 auto;
+            line-height:25px;
+            min-width: 700px;
+        }
+        /*
+            header wrapper
+        */
+        body div.header{
+            background-color:#2196F3;
+        }
+        body div.header > div.content{
+            padding:15px;
+        }
+        div.footer{
+            padding:32px 0px 28px 10px;
+            /* padding:40px, 100px, 10px, 0; */
+        }
+        /*
+            utils css
+        */
+        div.white-text{
+            color:white;
+        }
+        div.content > div.title{
+            padding:16px 0 26px 0;
+            /* border-top:1px silver solid; */
+            margin-top:10px;
+            font-size:1.4em;
+            font-weight:bold;
+            line-height:1px;
+        }
+        body a{
+            color:#08306b;
+            /* #004C99; */
+            text-decoration:none;
+        }
+        div.content ul{
+            list-style: square outside none;
+            padding-left:20px;
+        }
+        div.content ol{
+            list-style: square outside none;
+            padding-left:20px;
+        }
+        div.content li{
+            line-height:24px;
+            padding-bottom:2px;
+        }
+        div.content div.float-right{
+            float:right;
+        }
+    </style>
+
+    <style>
+        hr.new {
+        border-top: 1.3px silver solid;
+        /* padding-top:10px; */
+        }
+    </style>
+
+    </style>
+    <!-- publications -->
+    <style type="text/css">
+        div.publications > ol > li{
+            padding-bottom: 12px;
+        }
+    </style>
+
+    <!-- css for bio -->
+    <style type="text/css">
+        div.bio > div.left{
+            float:left;
+            width:40%;
+            margin-left:15%;
+        }
+        div.bio > div.left > img.me{
+            max-height:280px;
+            margin:20px;
+            max-width:280px;
+            margin-top:40px;
+            margin-left:50px;
+        }
+
+        div.bio > div.right{
+            margin:30px 0 0 400px;
+            min-height:260px;
+            line-height:28px;
+        }
+        div.bio > div.right > div.line.name{
+            padding:30px 0;
+            line-height:40px;
+        }
+        div.bio > div.right > div.name > span.name, div.bio > div.right > div.name > span.chineseName{
+            font-size:1.7em;
+            font-weight:bold;
+        }
+    </style>
+
+    <div class="content bio">
+        <div class="left">
+            <img class='me' src="./images/me.jpeg"></img><br/>
+        </div>
+        <div class="right">
+            <div class="line name">
+                <span class="name">Xiaohong Liu </span>
+                <!-- <br><img style="height: 40px;" src="./images/name.png"></img> -->
+                &nbsp;
+                <span class="chineseName">刘笑宏</span>
+            </div>
+            <div class="affliation">
+                <p> Tenure-Track Assisstant Professor</p>
+                <a href="http://jhc.sjtu.edu.cn/" target="_blank">John Hopcroft Center for Computer Science</a></br>
+                <!-- <a href="https://www.seiee.sjtu.edu.cn/" target="_blank">School of Electronic Information and Electrical Engineering</a></br> -->
+                <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University</a></br>
+                <p></p>
+                Email: xiaohongliu [at] sjtu [dot] edu [dot] cn</br>
+                Office: SEIEE Building 3-301B
+                <p>
+                <a href="https://scholar.google.ca/citations?user=Tq2hoMQAAAAJ&hl=en" target="_blank">Google Scholar</a> | 
+                <a href="https://github.com/proteus1991" target="_blank">GitHub</a>
+
+                </p>
+            </div>  
+        </div>
+        <hr class="new">
+    </div>
+
+    <!-- quick link -->
+    <style type="text/css">
+        div.quickLink{
+            font-size:1.2em;
+            min-height:70px;
+            display:flex;
+            justify-content:center;
+            align-items:center;
+        }
+        div.quickLink > .block{
+            display:block;
+            float:left;
+            padding:10px 0px;
+            text-align:center;
+            /* border:1px silver solid; */
+            /* border-radius:5px; */
+            /* box-shadow:2px 2px 1px silver; */
+            width:140px;
+            margin-right:30px;
+            margin-left:20px;
+            /* margin-top:20px; */
+            cursor:pointer;
+            /* border-top:1px silver solid; */
+        }
+    </style>
+
+    <div class="content quickLink">
+        <a class="block" href="#biography">Biography</a>
+        <a class="block" href="#interests">Research</a>
+        <a class="block" href="#publications">Publications</a>
+        <a class="block" href="#Services">Services</a>
+    </div>   
+    
+    <div class="content intro" name='biography'>
+        <a name="biography"></a>
+        <div class='title'>Biography</div>
+        <p style="text-align:justify; text-justify:inter-ideograph;">
+        Xiaohong Liu received his Ph.D. degree in <a href="https://www.eng.mcmaster.ca/ece" target="_blank">Department of Electrical & Computer Engineering</a> at 
+        <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a> in Nov. 2021, supervised by Prof. 
+        <a href="https://www.ece.mcmaster.ca/~junchen/" target="_blank">Jun Chen</a>. During the Ph.D., he visited
+        <a href="http://cvlab.cse.msu.edu/" target="_blank">Computer Vision Lab</a> at <a href="https://msu.edu/" target="_blank">Michigan State University</a>, where he 
+        adviced by Prof. <a href="https://www.cse.msu.edu/~liuxm/index2.html" target="_blank">Xiaoming Liu</a>. Since Jan. 2022, he has been with the 
+        <a href="http://jhc.sjtu.edu.cn/" target="_blank">John Hopcroft Center (JHC) for Computer Science</a> at 
+        <a href="https://www.sjtu.edu.cn/" target="_blank">Shanghai Jiao Tong University (SJTU)</a>, where he is currently a tenure-track assisstant professor.
+        <br>
+        <br>
+        Xiaohong Liu was a recipient of the 2019-20 <a href="https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/" target="_blank">Borealis AI Fellowship</a>. 
+        He also awarded an Alexander Graham Bell Canada Graduate Scholarship-Doctoral from Natural Sciences and Engineering Research
+        Council of Canada (NSERC) in 2020, and an Ontario Graduate Scholarship in 2019.
+        </p>
+        <hr class="new">
+    </div>
+
+    <div class="content interest" name='interests'>
+        <a name="interests"></a>
+        <div class='title'>Research Interest</div>
+        <p>
+            My research interest mainly lies on Computer Vision, which includes, among others, image/video restoration and segmentation.
+        </p>
+        <hr class="new">
+    </div>
+
+    <div class="content opening" name='prospective students'>
+        <div class='title'>Prospective Students</div>
+        <p>
+            I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. 
+            Please email me with your CV and transcripts if you are interested.
+        </p>
+        <hr class="new">
+    </div>
+
+    <div class="content publications" name='publications'>
+        <a name="publications"></a>
+        <div class="title">Publications</div>
+        * Equal contribution, <span>&#8224;</span> Corresponding author
+        <ul>
+            <li>
+                <b><font color=#4682B4>[CVPR]</font></b> <b>Video Frame Interpolation Transformer</b> 
+                [<a href="papers/cvpr22.pdf" target="_blank" color=>Paper</a>]
+                <br> Zhihao Shi<sup>*</sup>, Xiangyu Xu<sup>*</sup>, <b><u>Xiaohong Liu</u></b>, Jun Chen, and Ming-Hsuan Yang
+                <br> <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>, 2022
+            </li> 
+            <li> 
+                <b><font color=#4682B4>[IEEE TBC]</font></b> <b>Learning for Unconstrained Space-Time Video Super-Resolution</b>  
+                [<a href="papers/TBC2021.pdf" target="_blank" color=>Paper</a>]
+                <br> Zhihao Shi, <b><u>Xiaohong Liu</u></b><sup><span>&#8224;</span></sup>, Chengqi Li, Linhui Dai, Jun Chen, Timothy N Davidson, and Jiying Zhao
+                <br> <i>IEEE Transactions on Broadcasting</i>, 2021
+            </li>
+            <li> 
+                <b><font color=#4682B4>[IEEE TMM]</font></b> <b>Video Frame Interpolation via Generalized Deformable Convolution</b>  
+                [<a href="papers/TMM21.pdf" target="_blank" color=>Paper</a>]
+                <br> Zhihao Shi, <b><u>Xiaohong Liu</u></b><sup><span>&#8224;</span></sup>, Kangdi Shi, Linhui Dai, and Jun Chen<sup><span>&#8224;</span></sup>
+                <br> <i>IEEE Transactions on Multimedia</i>, 2021
+            </li>
+            <li> 
+                <b><font color=#4682B4>[EURASIP JIVP]</font></b> <b>Single Image Super Resolution based on Multi-Scale Structure and Non-Local Smoothing</b>  
+                [<a href="papers/JICV21.pdf" target="_blank" color=>Paper</a>]
+                <br> Wenyi Wang, Jun Hu, <b><u>Xiaohong Liu</u></b><sup><span>&#8224;</span></sup>, Jiying Zhao, and Jianwen Chen
+                <br> <i>EURASIP Journal on Image and Video Processing</i>, 2021
+            </li>
+            <li> 
+                <b><font color=#4682B4>[IEEE TIP]</font></b> <b>Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</b>  
+                [<a href="papers/TIP21.pdf" target="_blank" color=>Paper</a>]
+                <br> <b><u>Xiaohong Liu</u></b><sup><span>&#8224;</span></sup>, Kangdi Shi, Zhe Wang, and Jun Chen
+                <br> <i>IEEE Transactions on Image Processing</i>, 2021
+            </li>
+            <li> 
+                <b><font color=#4682B4>[ICANN]</font></b> <b>FMSNet: Underwater Image Restoration by Learning from a Synthesized Dataset</b>  
+                [<a href="papers/ICANN21.pdf" target="_blank" color=>Paper</a>]
+                <br> Xiangyu Yin, <b><u>Xiaohong Liu</u></b>, and Huan Liu
+                <br> <i>International Conference on Artificial Neural Networks</i>, 2021
+            </li>
+            <li> 
+                <b><font color=#4682B4>[WACV]</font></b> <b>End-to-End Trainable Video Super-Resolution Based on A New Mechanism for Implicit Motion Estimation and Compensation</b>  
+                [<a href="papers/WACV20.pdf" target="_blank" color=>Paper</a>]
+                <br> <b><u>Xiaohong Liu</u></b>, Lingshi Kong, Yang Zhou, Jiying Zhao, and Jun Chen
+                <br> <i>IEEE/CVF Winter Conference on Applications of Computer Vision</i>, 2020
+            </li>
+            <li> 
+                <b><font color=#4682B4>[ECCVW]</font></b> <b>Awnet: Attentive Wavelet Network for Image ISP</b>  
+                [<a href="papers/ECCVW20.pdf" target="_blank" color=>Paper</a>]
+                <br> Linhui Dai<sup>*</sup>, <b><u>Xiaohong Liu</u></b><sup>*</sup>, Chengqi Li, and Jun Chen
+                <br> <i>European Conference on Computer Vision Workshop</i>, 2020
+            </li>
+            <li> 
+                <b><font color=#4682B4>[ICCV]</font></b> <b>Griddehazenet: Attention-Based Multi-Scale Network for Image Dehazing</b>  
+                [<a href="papers/ICCV19.pdf" target="_blank" color=>Paper</a>]
+                <br> <b><u>Xiaohong Liu</u></b><sup>*</sup>, Yongrui Ma<sup>*</sup>, Zhihao Shi, and Jun Chen
+                <br> <i>IEEE/CVF International Conference on Computer Vision</i>, 2019
+            </li>
+            <li> 
+                <b><font color=#4682B4>[CWIT]</font></b> <b>Image Retrieval via Canonical Correlation Analysis</b>  
+                [<a href="papers/CWIT19.pdf" target="_blank" color=>Paper</a>]
+                <br> Kangdi Shi, <b><u>Xiaohong Liu</u></b>, Muhammad Alrabeiah, Xintong Guo, Jie Lin, Huan Liu, and Jun Chen
+                <br> <i>16th Canadian Workshop on Information Theory</i>, 2019
+            </li>
+            <li> 
+                <b><font color=#4682B4>[IEEE TIP]</font></b> <b>Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</b>  
+                [<a href="papers/TIP18.pdf" target="_blank" color=>Paper</a>]
+                <br> <b><u>Xiaohong Liu</u></b>, Lei Chen, Wenyi Wang, and Jiying Zhao<sup><span>&#8224;</span></sup>
+                <br> <i>IEEE Transactions on Image Processing</i>, 2018
+            </li>
+            <li> 
+                <b><font color=#4682B4>[GlobalSIP]</font></b> <b>Video Super-Resolution via Dynamic Local Filter Network</b>  
+                [<a href="papers/GlobalSIP2018.pdf" target="_blank" color=>Paper</a>]
+                <br> Yang Zhou, <b><u>Xiaohong Liu</u></b>, Lei Chen, Jiying Zhao
+                <br> <i>IEEE Global Conference on Signal and Information Processing</i>, 2018
+            </li>
+            <li> 
+                <b><font color=#4682B4>[GlobalSIP]</font></b> <b>Robust Multi-Frame Super-Resolution with Adaptive Norm Choice and Difference Curvature based BTV Regularization</b>  
+                [<a href="papers/GlobalSIP2017.pdf" target="_blank" color=>Paper</a>]
+                <br> <b><u>Xiaohong Liu</u></b> and Jiying Zhao
+                <br> <i>IEEE Global Conference on Signal and Information Processing</i>, 2017
+            </li>
+
+            
+        </ul>
+    </div>
+
+    <div class="content" name='Professional Services'>
+        <a name="Services"></a>
+        <div class="title">Professional Services</div>
+        <b>Journal Reviewer:</b>
+        <ul>
+            <li>IEEE Transactions on Image Processing</li>
+            <li>IEEE Transactions on Multimedia</li>
+            <li>IEEE Transactions on Broadcasting</li>
+            <li>IEEE Transactions on Circuits and Systems for Video Technology</li>
+            <li>IEEE Transactions on Intelligent Transportation Systems</li>
+            <li>Pattern Recognition</li>
+        </ul>
+        <b>Conference Reviewer:</b>
+        <ul>
+            <li>European Conference on Computer Vision (ECCV), 2023</li>
+            <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022</li>
+            <li>IEEE/CVF International Conference on Computer Vision (ICCV), 2021</li>
+            <li>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2020</li>
+            <li>Pacific Graphics (PG), 2020</li>
+        </ul>
+    </div>
+
+    <div class="content footer">
+        <a href="https://www.easycounter.com/">
+            <img src="https://www.easycounter.com/counter.php?proteus1991"
+            border="0" alt="HTML Hit Counters"></a> since Apr. 2022
+        <br>Last updated on <b><font color=#008B8B>Apr. 2022</font></b>
+    </div>
+</body>
+</html>

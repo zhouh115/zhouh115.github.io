@@ -26,15 +26,15 @@ Selected Publications
 ======
 \* Equal contribution, † Corresponding author
 
-<!-- 2023Hierarchical -->
+<!-- 2023hierarchical -->
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="images/publications/2023Hierarchical.png">  
+    <img align="left" width="100%" src="images/publications/2023hierarchical.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[CVPR] Hierarchical Fine-Grained Image Forgery Detection and Localization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[CVPR] Hierarchical Fine-Grained Image Forgery Detection and Localization</strong> <font color="blue"><a href="papers/2023hierarchical.pdf">[Paper]</a></font><br/>
       Xiao Guo, <u>Xiaohong Liu</u>, Zhiyuan Ren1, Steven Grosz1, Iacopo Masi3, Xiaoming Liu<br/>
       <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.</i> <br/>
     </p>
@@ -50,7 +50,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="papers/2022psccnet.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu</u>, Yaojie Liu, Jun Chen, Xiaoming Liu<br/>
       <i>IEEE Transactions on Circuits and Systems for Video Technology, 2022.</i> <br/>
     </p>
@@ -66,7 +66,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[CVPR] Video Frame Interpolation Transformer</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[CVPR] Video Frame Interpolation Transformer</strong> <font color="blue"><a href="papers/2022interpolation.pdf">[Paper]</a></font><br/>
       Zhihao Shi*, Xiangyu Xu*, <u>Xiaohong Liu</u>, Jun Chen, and Ming-Hsuan Yang<br/>
       <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</i> <br/>
     </p>
@@ -82,7 +82,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="papers/2021exploit.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu†</u>, Kangdi Shi, Zhe Wang, and Jun Chen<br/>
       <i>IEEE Transactions on Image Processing, 2021.</i> <br/>
     </p>
@@ -98,7 +98,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[ICCV] GridDehazeNet: Attention based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[ICCV] GridDehazeNet: Attention based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="papers/2019griddehazenet.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu*</u>, Yongrui Ma*, Zhihao Shi, and Jun Chen<br/>
       <i>IEEE/CVF International Conference on Computer Vision (ICCV), 2019.</i> <br/>
     </p>
@@ -114,7 +114,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="papers/2018robust.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu</u>, Lei Chen, Wenyi Wang, and Jiying Zhao†<br/>
       <i>IEEE Transactions on Image Processing, 2018.</i> <br/>
     </p>
@@ -130,7 +130,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/its22.pdf">[Paper]</a></font><br/>
+      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu†</u>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
       <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
     </p>
