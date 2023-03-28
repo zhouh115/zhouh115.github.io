@@ -90,6 +90,22 @@ Selected Publications
 </div>
 
 ---
+<!-- 2019griddehazenet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2019griddehazenet.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[ICCV] GridDehazeNet: Attention based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <u>Xiaohong Liu*</u>, Yongrui Ma*, Zhihao Shi, and Jun Chen<br/>
+      <i>IEEE/CVF International Conference on Computer Vision (ICCV), 2019.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
 
 <div class="row">
   <div class="column left">
