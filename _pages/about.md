@@ -106,6 +106,38 @@ Selected Publications
 </div>
 
 ---
+<!-- 2018robust -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2018robust.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <u>Xiaohong Liu</u>, Lei Chen, Wenyi Wang, and Jiying Zhao†<br/>
+      <i>IEEE Transactions on Image Processing, 2018.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022griddehazenet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2022griddehazenet.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <u>Xiaohong Liu†</u>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
+      <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
 
 <div class="row">
   <div class="column left">
