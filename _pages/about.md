@@ -74,6 +74,22 @@ Selected Publications
 </div>
 
 ---
+<!-- 2022griddehazenet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2022griddehazenet.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
+      <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
 <!-- 2021exploit -->
 <div class="row">
   <div class="column left">
@@ -85,6 +101,22 @@ Selected Publications
       <strong>[TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="papers/2021exploit.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kangdi Shi, Zhe Wang, and Jun Chen<br/>
       <i>IEEE Transactions on Image Processing, 2021.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2020endtoend -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2020endtoend.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[WACV] End-to-End Trainable Video Super-Resolution Based on A New Mechanism for Implicit Motion Estimation and Compensation</strong> <font color="blue"><a href="papers/2020endtoend.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu</u></b>, Lingshi Kong, Yang Zhou, Jiying Zhao, and Jun Chen<br/>
+      <i>IEEE/CVF Winter Conference on Applications of Computer Vision, 2020.</i> <br/>
     </p>
   </div>
 </div>
@@ -121,42 +153,12 @@ Selected Publications
   </div>
 </div>
 
----
-<!-- 2022griddehazenet -->
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2022griddehazenet.png">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
-      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
-      <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
-    </p>
-  </div>
-</div>
-
----
-<!-- 2020endtoend -->
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2020endtoend.png">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[WACV] End-to-End Trainable Video Super-Resolution Based on A New Mechanism for Implicit Motion Estimation and Compensation</strong> <font color="blue"><a href="papers/2020endtoend.pdf">[Paper]</a></font><br/>
-      <b><u>Xiaohong Liu</u></b>, Lingshi Kong, Yang Zhou, Jiying Zhao, and Jun Chen<br/>
-      <i>IEEE/CVF Winter Conference on Applications of Computer Vision, 2020.</i> <br/>
-    </p>
-  </div>
-</div>
 
 Services
 ======
 ### Journal Reviewer:
 * IEEE Transactions on Image Processing
+* IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Multimedia
 * IEEE Transactions on Broadcasting
 * IEEE Transactions on Circuits and Systems for Video Technology
