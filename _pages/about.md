@@ -138,81 +138,17 @@ Selected Publications
 </div>
 
 ---
-
+<!-- 2020endtoend -->
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
+    <img align="left" width="100%" src="images/publications/2020endtoend.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[IEEE TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/TIP21.pdf">[Paper]</a></font><br/>
-      <u>Xiaohong Liu†</u>, Kangdi Shi, Zhe Wang, and Jun Chen<br/>
-      <i>IEEE Transactions on Image Processing, 2021.</i> <br/>
-    </p>
-  </div>
-</div>
-
----
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[WACV] End-to-End Trainable Video Super-Resolution Based on A New Mechanism for Implicit Motion Estimation and Compensation</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/WACV20.pdf">[Paper]</a></font><br/>
+      <strong>[WACV] End-to-End Trainable Video Super-Resolution Based on A New Mechanism for Implicit Motion Estimation and Compensation</strong> <font color="blue"><a href="papers/2020endtoend.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu</u>, Lingshi Kong, Yang Zhou, Jiying Zhao, and Jun Chen<br/>
       <i>IEEE/CVF Winter Conference on Applications of Computer Vision, 2020.</i> <br/>
-    </p>
-  </div>
-</div>
-
----
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[ICCV] Griddehazenet: Attention-Based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/ICCV19.pdf">[Paper]</a></font><br/>
-      <u>Xiaohong Liu*</u>, Yongrui Ma*, Zhihao Shi, and Jun Chen<br/>
-      <i>IEEE/CVF International Conference on Computer Vision, 2019.</i><br/>
-    </p>
-  </div>
-</div>
-
----
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[IEEE TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/TIP18.pdf">[Paper]</a></font><br/>
-      <u>Xiaohong Liu</u>, Lei Chen, Wenyi Wang, and Jiying Zhao†<br/>
-      <i>IEEE Transactions on Image Processing, 2018.</i><br/>
-    </p>
-  </div>
-</div>
-
----
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[GlobalSIP] Robust Multi-Frame Super-Resolution with Adaptive Norm Choice and Difference Curvature based BTV Regularization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/GlobalSIP2017.pdf">[Paper]</a></font><br/>
-      <u>Xiaohong Liu</u> and Jiying Zhao<br/>
-      <i>IEEE Global Conference on Signal and column rightrmation Processing, 2017.</i><br/>
     </p>
   </div>
 </div>
