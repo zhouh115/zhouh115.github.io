@@ -16,8 +16,6 @@ Prospective Students
 ======
 I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. Please email me with your CV and transcripts if you are interested.
 
-**There is one Ph.D. position available in Fall 2023. Please contact me ASAP if interested.**
-
 <strong><font color="blue">There is one Ph.D. position available in Fall 2023. Please contact me ASAP if interested.</font></strong>
 
 News
@@ -52,7 +50,7 @@ Selected Publications
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[CVPR] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
       <u>Xiaohong Liu</u>, Yaojie Liu, Jun Chen, Xiaoming Liu<br/>
       <i>IEEE Transactions on Circuits and Systems for Video Technology, 2022.</i> <br/>
     </p>
@@ -71,6 +69,22 @@ Selected Publications
       <strong>[CVPR] Video Frame Interpolation Transformer</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
       Zhihao Shi*, Xiangyu Xu*, <u>Xiaohong Liu</u>, Jun Chen, and Ming-Hsuan Yang<br/>
       <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.</i> <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2021exploit -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2021exploit.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="https://jhc.sjtu.edu.cn/~xiaohongliu/papers/cvpr22.pdf">[Paper]</a></font><br/>
+      <u>Xiaohong Liu†</u>, Kangdi Shi, Zhe Wang, and Jun Chen<br/>
+      <i>IEEE Transactions on Image Processing, 2021.</i> <br/>
     </p>
   </div>
 </div>
