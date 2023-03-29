@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of Programming Design(程序设计思想与方法基础)"
+title: "Fundamentals of Programming Design (程序设计思想与方法基础)"
 nolink: True
 collection: teaching
 type: "Undergraduate course"
