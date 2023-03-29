@@ -1,16 +1,16 @@
 ---
-title: "English for Academic Purposes (EAP)"
+title: "Fundamentals of Programming Design(程序设计思想与方法基础)"
 nolink: True
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2023-spring-FL6001
 venue: "CS, SJTU"
 date: 2023-02-13
-time: "Winter 2023"
+time: "Summer 2023"
 location: "Shanghai, China"
 ---
 
-English for Academic Purposes (EAP) is a course designed for all graduate students at Shanghai Jiao Tong University.
+This course introduces the basics of computer programming in C++, which is composed of programming concepts, algorithms, etc.
 
 Course Description
 =====
