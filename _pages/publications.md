@@ -183,7 +183,7 @@ author_profile: true
     <p>
       <strong>[CWIT] Image Retrieval via Canonical Correlation Analysis</strong> <font color="blue"><a href="../papers/2019image.pdf">[Paper]</a></font><br/>
       Kangdi Shi, <b><u>Xiaohong Liu</u></b>, Muhammad Alrabeiah, Xintong Guo, Jie Lin, Huan Liu, and Jun Chen<br/>
-      <i>16th Canadian Workshop on column rightrmation Theory, 2019.</i><br/>
+      <i>16th Canadian Workshop on Information Theory (CWIT), 2019.</i><br/>
     </p>
   </div>
 </div>
@@ -196,7 +196,7 @@ author_profile: true
     <p>
       <strong>[GlobalSIP] Video Super-Resolution via Dynamic Local Filter Network</strong> <font color="blue"><a href="../papers/2018video.pdf">[Paper]</a></font><br/>
       Yang Zhou, <b><u>Xiaohong Liu</u></b>, Lei Chen, Jiying Zhao<br/>
-      <i>IEEE Global Conference on Signal and column rightrmation Processing, 2018.</i><br/>
+      <i>IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018.</i><br/>
     </p>
   </div>
 </div>
@@ -209,7 +209,7 @@ author_profile: true
     <p>
       <strong>[IEEE GlobalSIP] Robust Multi-Frame Super-Resolution with Adaptive Norm Choice and Difference Curvature based BTV Regularization</strong> <font color="blue"><a href="../papers/2017robust.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu</u></b> and Jiying Zhao<br/>
-      <i>IEEE Global Conference on Signal and column rightrmation Processing, 2017.</i><br/>
+      <i>IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2017.</i><br/>
     </p>
   </div>
 </div>
