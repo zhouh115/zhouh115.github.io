@@ -24,7 +24,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="papers/2022psccnet.pdf">[Paper]</a></font><br/>
+      <strong>[IEEE TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="papers/2022psccnet.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu</u></b>, Yaojie Liu, Jun Chen, Xiaoming Liu<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Circuits and Systems for Video Technology, 2022.</i> <br/>
     </p>
@@ -50,7 +50,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
+      <strong>[IEEE ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu</u></b>, Zhihao Shi, Zijun Wu, Jun Chen<sup><span>&#8224;</span></sup>, and Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
     </p>
@@ -63,7 +63,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="papers/2021exploit.pdf">[Paper]</a></font><br/>
+      <strong>[IEEE TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="papers/2021exploit.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kangdi Shi, Zhe Wang, and Jun Chen<br/>
       <i>IEEE Transactions on Image Processing, 2021.</i> <br/>
     </p>
@@ -102,7 +102,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="papers/2018robust.pdf">[Paper]</a></font><br/>
+      <strong>[IEEE TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="papers/2018robust.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu</u></b>, Lei Chen, Wenyi Wang, and Jiying Zhao<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Image Processing, 2018.</i> <br/>
     </p>
@@ -206,7 +206,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>[GlobalSIP] Robust Multi-Frame Super-Resolution with Adaptive Norm Choice and Difference Curvature based BTV Regularization</strong> <font color="blue"><a href="../papers/2017robust.pdf">[Paper]</a></font><br/>
+      <strong>[IEEE GlobalSIP] Robust Multi-Frame Super-Resolution with Adaptive Norm Choice and Difference Curvature based BTV Regularization</strong> <font color="blue"><a href="../papers/2017robust.pdf">[Paper]</a></font><br/>
       <b><u>Xiaohong Liu</u></b> and Jiying Zhao<br/>
       <i>IEEE Global Conference on Signal and column rightrmation Processing, 2017.</i><br/>
     </p>
