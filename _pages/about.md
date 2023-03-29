@@ -51,7 +51,7 @@ Selected Publications
   <div class="column right">
     <p>
       <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="papers/2022psccnet.pdf">[Paper]</a></font><br/>
-      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yaojie Liu, Jun Chen, Xiaoming Liu<br/>
+      <b><u>Xiaohong Liu</u></b>, Yaojie Liu, Jun Chen, Xiaoming Liu<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Circuits and Systems for Video Technology, 2022.</i> <br/>
     </p>
   </div>
@@ -83,7 +83,7 @@ Selected Publications
   <div class="column right">
     <p>
       <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
-      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
+      <b><u>Xiaohong Liu</u></b>, Zhihao Shi, Zijun Wu, Jun Chen<sup><span>&#8224;</span></sup>, and Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
     </p>
   </div>

@@ -8,9 +8,6 @@ author_profile: true
 
 <!-- 2023hierarchical -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2023hierarchical.png">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
@@ -24,14 +21,11 @@ author_profile: true
 ---
 <!-- 2022psccnet -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2022psccnet.jpeg">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="papers/2022psccnet.pdf">[Paper]</a></font><br/>
-      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yaojie Liu, Jun Chen, Xiaoming Liu<br/>
+      <b><u>Xiaohong Liu</u></b>, Yaojie Liu, Jun Chen, Xiaoming Liu<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Circuits and Systems for Video Technology, 2022.</i> <br/>
     </p>
   </div>
@@ -40,9 +34,6 @@ author_profile: true
 ---
 <!-- 2022interpolation -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2022interpolation.jpg">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
@@ -56,14 +47,11 @@ author_profile: true
 ---
 <!-- 2022griddehazenet -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2022griddehazenet.png">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>[ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
-      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Zhihao Shi, Zijun Wu, Jun Chen, and Guangtao Zhai<br/>
+      <b><u>Xiaohong Liu</u></b>, Zhihao Shi, Zijun Wu, Jun Chen<sup><span>&#8224;</span></sup>, and Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
       <i>IEEE Transactions on Intelligent Transportation Systems, 2022.</i> <br/>
     </p>
   </div>
@@ -72,9 +60,6 @@ author_profile: true
 ---
 <!-- 2021exploit -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2021exploit.png">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
@@ -88,9 +73,6 @@ author_profile: true
 ---
 <!-- 2020endtoend -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2020endtoend.png">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
@@ -104,9 +86,6 @@ author_profile: true
 ---
 <!-- 2019griddehazenet -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2019griddehazenet.png">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
@@ -120,9 +99,6 @@ author_profile: true
 ---
 <!-- 2018robust -->
 <div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="images/publications/2018robust.png">  
-  </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
