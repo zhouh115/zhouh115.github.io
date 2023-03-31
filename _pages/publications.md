@@ -72,6 +72,32 @@ author_profile: true
 </div>
 
 ---
+<!-- 2022image -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[Information] Image Retrieval via Canonical Correlation Analysis and Binary Hypothesis Testing</strong> <font color="blue"><a href="../papers/2022image.pdf">[Paper]</a></font><br/>
+      Kangdi Shi<sup><span>&#8224;</span></sup>, <b><u>Xiaohong Liu</u></b>, Muhammad Alrabeiah, Xintong Guo, Jie Lin, Huan Liu, and Jun Chen<br/>
+      <i>Information, </i>2022. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022enabling -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[IEEE Multimedia] Enabling Trimap-Free Image Matting with a Frequency-Guided Saliency-Aware Network via Joint Learning</strong> <font color="blue"><a href="../papers/2022enabling.pdf">[Paper]</a></font><br/>
+      Linhui Dai, Xiang Song, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Chenqi Li, Zhihao Shi, Jun Chen, and Martin Brooks<br/>
+      <i>IEEE Transactions on Multimedia, </i>2022. <br/>
+    </p>
+  </div>
+</div>
+
+---
 <!-- 2022smpl -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
