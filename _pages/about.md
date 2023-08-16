@@ -16,10 +16,12 @@ Prospective Students
 ======
 I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. Please email me with your CV and transcripts if you are interested.
 
-<b><font color="#4682B4">There is one Ph.D. position available in Fall 2023. Please contact me ASAP if interested.</font></b>
+<b><font color="#4682B4">There are one Ph.D. and one master positions available in Fall 2024. Please contact me ASAP if interested.</font></b>
 
 News
 ======
+* [2023/7] &nbsp; Three papers are accepted by ACM MM 2023
+* [2023/7] &nbsp; One paper is accepted by ICCV 2023
 * [2023/3] &nbsp; One paper is accepted by CVPR 2023
 * [2022/9] &nbsp; One paper is accepted by NeurIPS 2022
 * [2022/3] &nbsp; One paper is accepted by CVPR 2022
@@ -158,7 +160,17 @@ Selected Publications
 
 Services
 ======
-### Journal Reviewer:
+### Professional Service:
+* NTIRE 2023 Quality Assessment of Video Enhancement Challenge Organizer
+* IC 2023 AI for Medicine Area Organization Committee
+* CGI 2023 Workshops/Special Session Chair
+* VRIH Special issue: 3D Medical Image Processing and Analysis Organizer
+
+### Reviewer:
+* Journal: IEEE TPMI, IEEE TIP, IEEE TIFS, IEEE TMM, IEEE TCSVT, IEEE TITS, IEEE TBC, Pattern Recognition
+* Conference: ICCV 2021, CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023, AAAI 2024
+
+<!-- ### Journal Reviewer:
 * IEEE Transactions on Image Processing
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Multimedia
@@ -168,4 +180,4 @@ Services
 * Pattern Recognition
 
 ### Conference Reviewer:
-PG 2020, WACV 2020, ICCV 2021, CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023
+PG 2020, WACV 2020, ICCV 2021, CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023 -->
