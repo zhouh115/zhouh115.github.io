@@ -12,6 +12,8 @@ I'm currently a tenure-track assisstant professor at [John Hopcroft Center (JHC)
 
 I received the Chinese Government Award for Outstanding Self-financed Students Abroad in 2021, a Canada Graduate Scholarship from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2021, and an Ontario Graduate Scholarship in 2019. Besides, I was a recipient of the [2020 Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/).
 
+Lab Website: [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/)
+
 Prospective Students
 ======
 I am always looking for enthusiastic and self-motivated students to work together on computer vision related topics. Please email me with your CV and transcripts if you are interested.
