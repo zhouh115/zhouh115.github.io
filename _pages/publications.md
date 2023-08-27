@@ -151,19 +151,6 @@ author_profile: true
 </div>
 
 ---
-<!-- 2022learning -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>[CVPRW] VDPVE: VQA Dataset for Perceptual Video Enhancement</strong> <font color="blue"><a href="../papers/2022learning.pdf">[Paper]</a></font><br/>
-      Yixuan Gao<sup>*</sup>, Yuqin Cao<sup>*</sup>, Tengchuan Kou<sup>*</sup>, Wei Sun, Yunlong Dong, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
-      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop, </i>2023. <br/>
-    </p>
-  </div>
-</div>
-
----
 <!-- 2023hierarchical -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
@@ -185,6 +172,19 @@ author_profile: true
       <strong>[Display] LightR-YOLOv5: A compact rotating detector for SARS-CoV-2 antigen-detection rapid diagnostic test results</strong> <font color="blue"><a href="../papers/2023lightryolov5.pdf">[Paper]</a></font><br/>
       Rongsheng Wang, Yaofei Duan, Menghan Hu, <b><u>Xiaohong Liu</u></b>, Yukun Li, Qinquan Gao, Tong Tong, Tao Tan<sup><span>&#8224;</span></sup><br/>
       <i>Display, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022learning -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[ECCVW] Learning Rich Information for Quad Bayer Remosaicing and Denoising</strong> <font color="blue"><a href="../papers/2022learning.pdf">[Paper]</a></font><br/>
+      Jun Jia, Hanchi Sun, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Longan Xiao, Qihang Xu, Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
+      <i>European Conference on Computer Vision Workshop, </i>2022. <br/>
     </p>
   </div>
 </div>
