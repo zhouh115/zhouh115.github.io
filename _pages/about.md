@@ -12,7 +12,7 @@ I'm currently a tenure-track assisstant professor at [John Hopcroft Center (JHC)
 
 I received the Chinese Government Award for Outstanding Self-financed Students Abroad in 2021, a Canada Graduate Scholarship from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2021, and an Ontario Graduate Scholarship in 2019. Besides, I was a recipient of the [2020 Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/).
 
-Lab Website: [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/)
+<b>Lab Website: [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/)</b>
 
 Prospective Students
 ======
@@ -169,7 +169,7 @@ Services
 * VRIH Special issue: 3D Medical Image Processing and Analysis Organizer
 
 ### Reviewer:
-* Journal: IEEE TPMI, IEEE TIP, IEEE TIFS, IEEE TMM, IEEE TCSVT, IEEE TITS, IEEE TBC, Pattern Recognition
+* Journal: IEEE TPAMI, IEEE TIP, IEEE TIFS, IEEE TMM, IEEE TCSVT, IEEE TITS, IEEE TBC, Pattern Recognition
 * Conference: ICCV 2021, CVPR 2022, ECCV 2022, CVPR 2023, ICCV 2023, AAAI 2024
 
 <!-- ### Journal Reviewer:
