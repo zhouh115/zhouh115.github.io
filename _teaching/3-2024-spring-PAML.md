@@ -1,10 +1,10 @@
 ---
-title: "The principle and applications of Machine Learning (机器学习原理与应用)"
+title: "The Principle and Applications of Machine Learning (机器学习原理与应用)"
 nolink: True
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-FL6001
-venue: "Zhiyuan Colleage, SJTU"
+venue: "Zhiyuan College, SJTU"
 date: 2023-02-13
 time: "Spring 2024"
 location: "Shanghai, China"
