@@ -21,25 +21,12 @@ author_profile: true
 </div>
 
 ---
-<!-- 2023multiview -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>31. [CGI] Multi-View 3D Face Reconstruction Based on Flame</strong> <font color="blue"><a href="../papers/2023multiview.pdf">[Paper]</a></font><br/>
-      Wenzhuo Zheng<sup>*</sup>, Junhao Zhao<sup>*</sup>, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yongyang Pan, Zhenghao Gan, Haozhe Han, Ning Liu<sup><span>&#8224;</span></sup><br/>
-      <i>Computer Graphics International (CGI), </i>2023. <br/>
-    </p>
-  </div>
-</div>
-
----
 <!-- 2023fastllve -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>30. [ACMMM] FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table</strong> <font color="blue"><a href="../papers/2023fastllve.pdf">[Paper]</a></font><br/>
+      <strong>31. [ACMMM] FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table</strong> <font color="blue"><a href="../papers/2023fastllve.pdf">[Paper]</a></font><br/>
       Wenhao Li<sup>*</sup>, Guangyang Wu<sup>*</sup>, Wenyi Wang, Peiran Ren, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b><br/>
       <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
     </p>
@@ -52,9 +39,35 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>29. [ACMMM] StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability</strong> <font color="blue"><a href="../papers/2023stablevqa.pdf">[Paper]</a></font><br/>
+      <strong>30. [ACMMM] StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability</strong> <font color="blue"><a href="../papers/2023stablevqa.pdf">[Paper]</a></font><br/>
       Tengchuan Kou, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Wei Sun, Jun Jia, Xiongkuo Min, Guangtao Zhai, Ning Liu<sup><span>&#8224;</span></sup><br/>
       <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023lightvqa -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>29. [ACMMM] Light-VQA: A Multi-Dimensional Quality Assessment Model for Low-Light Video Enhancement</strong> <font color="blue"><a href="../papers/2023lightvqa.pdf">[Paper]</a></font><br/>
+      Yunlong Dong, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yixuan Gao, Xunchu Zhou, Tao Tan, Guangtao Zhai<br/>
+      <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023multiview -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>28. [CGI] Multi-View 3D Face Reconstruction Based on Flame</strong> <font color="blue"><a href="../papers/2023multiview.pdf">[Paper]</a></font><br/>
+      Wenzhuo Zheng<sup>*</sup>, Junhao Zhao<sup>*</sup>, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yongyang Pan, Zhenghao Gan, Haozhe Han, Ning Liu<sup><span>&#8224;</span></sup><br/>
+      <i>Computer Graphics International (CGI), </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -65,22 +78,9 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>28. [TVC] PCTMF-Net: heart sound classification with parallel CNNs-transformer and second-order spectral analysis</strong> <font color="blue"><a href="../papers/2023pctmfnet.pdf">[Paper]</a></font><br/>
+      <strong>27. [TVC] PCTMF-Net: heart sound classification with parallel CNNs-transformer and second-order spectral analysis</strong> <font color="blue"><a href="../papers/2023pctmfnet.pdf">[Paper]</a></font><br/>
       Rongsheng Wang, Yaofei Duan, Yukun Li, Dashun Zheng, Xiaohong Liu, Chan Tong Lam, Tao Tan<sup><span>&#8224;</span></sup><br/>
       <i>The Visual Computer, </i>2023. <br/>
-    </p>
-  </div>
-</div>
-
----
-<!-- 2023ivygpt -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>27. [CICAI] IvyGPT: InteractiVe Chinese pathwaY language model in medical domain</strong> <font color="blue"><a href="../papers/2023ivygpt.pdf">[Paper]</a></font><br/>
-      Rongsheng Wang, Yaofei Duan, ChanTong Lam, Jiexi Chen, Jiangsheng Xu, Haoming Chen, Xiaohong Liu, Patrick Cheong-Iao Pang, Tao Tan<sup><span>&#8224;</span></sup><br/>
-      <i>CAAI International Conference on Artificial Intelligence, </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -99,27 +99,29 @@ author_profile: true
 </div>
 
 ---
+<!-- 2023ivygpt -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>25. [CICAI] IvyGPT: InteractiVe Chinese pathwaY language model in medical domain</strong> <font color="blue"><a href="../papers/2023ivygpt.pdf">[Paper]</a></font><br/>
+      Rongsheng Wang, Yaofei Duan, ChanTong Lam, Jiexi Chen, Jiangsheng Xu, Haoming Chen, Xiaohong Liu, Patrick Cheong-Iao Pang, Tao Tan<sup><span>&#8224;</span></sup><br/>
+      <i>CAAI International Conference on Artificial Intelligence, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+
+
+---
 <!-- 2023cheapfake -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>25. [ICMEW] Cheap-fake Detection with LLM using Prompt Engineering</strong> <font color="blue"><a href="../papers/2023cheapfake.pdf">[Paper]</a></font><br/>
+      <strong>24. [ICMEW] Cheap-fake Detection with LLM using Prompt Engineering</strong> <font color="blue"><a href="../papers/2023cheapfake.pdf">[Paper]</a></font><br/>
       Guangyang Wu, Weijie Wu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kele Xu, Tianjiao Wan, Wenyi Wang<sup><span>&#8224;</span></sup><br/>
-      <i>The Visual Computer, </i>2023. <br/>
-    </p>
-  </div>
-</div>
-
----
-<!-- 2023lightvqa -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>24. [ACMMM] Light-VQA: A Multi-Dimensional Quality Assessment Model for Low-Light Video Enhancement</strong> <font color="blue"><a href="../papers/2023lightvqa.pdf">[Paper]</a></font><br/>
-      Yunlong Dong, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yixuan Gao, Xunchu Zhou, Tao Tan, Guangtao Zhai<br/>
-      <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
+      <i>TIEEE International Conference on Multimedia and Expo Workshop, </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -130,7 +132,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>23. [ICME] A Perceptual Quality Assessment Exploration for AIGC Images</strong> <font color="blue"><a href="../papers/2023perceptual.pdf">[Paper]</a></font><br/>
+      <strong>23. [ICMEW] A Perceptual Quality Assessment Exploration for AIGC Images</strong> <font color="blue"><a href="../papers/2023perceptual.pdf">[Paper]</a></font><br/>
       Zicheng Zhang<sup>*</sup>, Chunyi Li<sup>*</sup>, Wei Sun, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai<br/>
       <i>IEEE International Conference on Multimedia and Expo Workshop, </i>2023. <br/>
     </p>

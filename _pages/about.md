@@ -95,6 +95,135 @@ Selected Publications
   </div>
 </div>
 
+---
+<!-- 2023hierarchical -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2023hierarchical.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[CVPR] Hierarchical Fine-Grained Image Forgery Detection and Localization</strong> <font color="blue"><a href="papers/2023hierarchical.pdf">[Paper]</a></font><br/>
+      Xiao Guo, <b><u>Xiaohong Liu</u></b>, Zhiyuan Ren, Steven Grosz, Iacopo Masi, Xiaoming Liu<br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022psccnet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2022psccnet.jpeg">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[TCSVT] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong> <font color="blue"><a href="papers/2022psccnet.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu</u></b>, Yaojie Liu, Jun Chen, Xiaoming Liu<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE Transactions on Circuits and Systems for Video Technology, </i>2022. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022interpolation -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2022interpolation.jpg">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[CVPR] Video Frame Interpolation Transformer</strong> <font color="blue"><a href="papers/2022interpolation.pdf">[Paper]</a></font><br/>
+      Zhihao Shi<sup>*</sup>, Xiangyu Xu<sup>*</sup>, <b><u>Xiaohong Liu</u></b>, Jun Chen, and Ming-Hsuan Yang<br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2022. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2022griddehazenet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2022griddehazenet.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[IEEE ITS] GridDehazeNet+: An Enhanced Multi-Scale Network with Intra-Task Knowledge Transfer for Single Image Dehazing</strong> <font color="blue"><a href="papers/2022griddehazenet.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu</u></b>, Zhihao Shi, Zijun Wu, Jun Chen<sup><span>&#8224;</span></sup>, and Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE Transactions on Intelligent Transportation Systems, </i>2022. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2021exploit -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2021exploit.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[IEEE TIP] Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</strong> <font color="blue"><a href="papers/2021exploit.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kangdi Shi, Zhe Wang, and Jun Chen<br/>
+      <i>IEEE Transactions on Image Processing, </i>2021. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2020endtoend -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2020endtoend.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[WACV] End-to-End Trainable Video Super-Resolution Based on A New Mechanism for Implicit Motion Estimation and Compensation</strong> <font color="blue"><a href="papers/2020endtoend.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu</u></b>, Lingshi Kong, Yang Zhou, Jiying Zhao, and Jun Chen<br/>
+      <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), </i>2020. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2019griddehazenet -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2019griddehazenet.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[ICCV] GridDehazeNet: Attention based Multi-Scale Network for Image Dehazing</strong> <font color="blue"><a href="papers/2019griddehazenet.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu<sup>*</sup></u></b>, Yongrui Ma<sup>*</sup>, Zhihao Shi, and Jun Chen<br/>
+      <i>IEEE/CVF International Conference on Computer Vision (ICCV), </i>2019. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2018robust -->
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="images/publications/2018robust.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>[IEEE TIP] Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</strong> <font color="blue"><a href="papers/2018robust.pdf">[Paper]</a></font><br/>
+      <b><u>Xiaohong Liu</u></b>, Lei Chen, Wenyi Wang, and Jiying Zhao<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE Transactions on Image Processing, </i>2018. <br/>
+    </p>
+  </div>
+</div>
+
+
 Services
 ======
 ### Professional Service:
