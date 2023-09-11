@@ -121,7 +121,7 @@ author_profile: true
     <p>
       <strong>24. [ICMEW] Cheap-fake Detection with LLM using Prompt Engineering</strong> <font color="blue"><a href="../papers/2023cheapfake.pdf">[Paper]</a></font><br/>
       Guangyang Wu, Weijie Wu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kele Xu, Tianjiao Wan, Wenyi Wang<sup><span>&#8224;</span></sup><br/>
-      <i>TIEEE International Conference on Multimedia and Expo Workshop, </i>2023. <br/>
+      <i>IEEE International Conference on Multimedia and Expo Workshop, </i>2023. <br/>
     </p>
   </div>
 </div>
