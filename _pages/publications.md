@@ -13,7 +13,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>32. [ICCV] AccFlow: Backward Accumulation for Long-Range Optical Flow</strong> <font color="blue"><a href="../papers/2023accflow.pdf">[Paper]</a></font><br/>
+      <strong>36. [ICCV] AccFlow: Backward Accumulation for Long-Range Optical Flow</strong> <font color="blue"><a href="../papers/2023accflow.pdf">[Paper]</a></font><br/>
       Guangyang Wu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kunming Luo<sup>*</sup>, Xi Liu<sup>*</sup>, Qingqing Zheng, Shuaicheng Liu, Xinyang Jiang, Guangtao Zhai, Wenyi Wang<sup><span>&#8224;</span></sup><br/>
       <i>IEEE/CVF International Conference on Computer Vision (ICCV), </i>2023. <br/>
     </p>
@@ -26,7 +26,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>31. [ACMMM] FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table</strong> <font color="blue"><a href="../papers/2023fastllve.pdf">[Paper]</a></font><br/>
+      <strong>35. [ACMMM] FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table</strong> <font color="blue"><a href="../papers/2023fastllve.pdf">[Paper]</a></font><br/>
       Wenhao Li<sup>*</sup>, Guangyang Wu<sup>*</sup>, Wenyi Wang, Peiran Ren, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b><br/>
       <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
     </p>
@@ -39,7 +39,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>30. [ACMMM] StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability</strong> <font color="blue"><a href="../papers/2023stablevqa.pdf">[Paper]</a></font><br/>
+      <strong>34. [ACMMM] StableVQA: A Deep No-Reference Quality Assessment Model for Video Stability</strong> <font color="blue"><a href="../papers/2023stablevqa.pdf">[Paper]</a></font><br/>
       Tengchuan Kou, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Wei Sun, Jun Jia, Xiongkuo Min, Guangtao Zhai, Ning Liu<sup><span>&#8224;</span></sup><br/>
       <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
     </p>
@@ -52,9 +52,22 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>29. [ACMMM] Light-VQA: A Multi-Dimensional Quality Assessment Model for Low-Light Video Enhancement</strong> <font color="blue"><a href="../papers/2023lightvqa.pdf">[Paper]</a></font><br/>
+      <strong>33. [ACMMM] Light-VQA: A Multi-Dimensional Quality Assessment Model for Low-Light Video Enhancement</strong> <font color="blue"><a href="../papers/2023lightvqa.pdf">[Paper]</a></font><br/>
       Yunlong Dong, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yixuan Gao, Xunchu Zhou, Tao Tan, Guangtao Zhai<br/>
       <i>The 31st ACM International Conference on Multimedia, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023hierarchical -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>32. [CVPR] Hierarchical Fine-Grained Image Forgery Detection and Localization</strong> <font color="blue"><a href="../papers/2023hierarchical.pdf">[Paper]</a></font><br/>
+      Xiao Guo, <b><u>Xiaohong Liu</u></b>, Zhiyuan Ren, Steven Grosz, Iacopo Masi, Xiaoming Liu<br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -65,35 +78,9 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>28. [CGI] Multi-View 3D Face Reconstruction Based on Flame</strong> <font color="blue"><a href="../papers/2023multiview.pdf">[Paper]</a></font><br/>
+      <strong>31. [CGI] FLAME-based Multi-view 3D Face Reconstruction</strong> <font color="blue"><a href="../papers/2023flame.pdf">[Paper]</a></font><br/>
       Wenzhuo Zheng<sup>*</sup>, Junhao Zhao<sup>*</sup>, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yongyang Pan, Zhenghao Gan, Haozhe Han, Ning Liu<sup><span>&#8224;</span></sup><br/>
       <i>Computer Graphics International (CGI), </i>2023. <br/>
-    </p>
-  </div>
-</div>
-
----
-<!-- 2023pctmfnet -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>27. [TVC] PCTMF-Net: heart sound classification with parallel CNNs-transformer and second-order spectral analysis</strong> <font color="blue"><a href="../papers/2023pctmfnet.pdf">[Paper]</a></font><br/>
-      Rongsheng Wang, Yaofei Duan, Yukun Li, Dashun Zheng, Xiaohong Liu, Chan Tong Lam, Tao Tan<sup><span>&#8224;</span></sup><br/>
-      <i>The Visual Computer, </i>2023. <br/>
-    </p>
-  </div>
-</div>
-
----
-<!-- 2023transmrsr -->
-<div class="row">
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>26. [TVC] TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution</strong> <font color="blue"><a href="../papers/2023transmrsr.pdf">[Paper]</a></font><br/>
-      Shan Huang<sup>*</sup>, Xiaohong Liu<sup>*</sup>, Tao Tan, Menghan Hu, Xiaoer Wei<sup><span>&#8224;</span></sup>, Tingli Chen<sup><span>&#8224;</span></sup>, Bin Sheng<sup><span>&#8224;</span></sup><br/>
-      <i>The Visual Computer, </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -104,14 +91,12 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>25. [CICAI] IvyGPT: InteractiVe Chinese pathwaY language model in medical domain</strong> <font color="blue"><a href="../papers/2023ivygpt.pdf">[Paper]</a></font><br/>
-      Rongsheng Wang, Yaofei Duan, ChanTong Lam, Jiexi Chen, Jiangsheng Xu, Haoming Chen, Xiaohong Liu, Patrick Cheong-Iao Pang, Tao Tan<sup><span>&#8224;</span></sup><br/>
+      <strong>30. [CICAI] IvyGPT: InteractiVe Chinese pathwaY language model in medical domain</strong> <font color="blue"><a href="../papers/2023ivygpt.pdf">[Paper]</a></font><br/>
+      Rongsheng Wang, Yaofei Duan, ChanTong Lam, Jiexi Chen, Jiangsheng Xu, Haoming Chen, <b><u>Xiaohong Liu</u></b>, Patrick Cheong-Iao Pang, Tao Tan<sup><span>&#8224;</span></sup><br/>
       <i>CAAI International Conference on Artificial Intelligence, </i>2023. <br/>
     </p>
   </div>
 </div>
-
-
 
 ---
 <!-- 2023cheapfake -->
@@ -119,7 +104,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>24. [ICMEW] Cheap-fake Detection with LLM using Prompt Engineering</strong> <font color="blue"><a href="../papers/2023cheapfake.pdf">[Paper]</a></font><br/>
+      <strong>29. [ICMEW] Cheap-fake Detection with LLM using Prompt Engineering</strong> <font color="blue"><a href="../papers/2023cheapfake.pdf">[Paper]</a></font><br/>
       Guangyang Wu, Weijie Wu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Kele Xu, Tianjiao Wan, Wenyi Wang<sup><span>&#8224;</span></sup><br/>
       <i>IEEE International Conference on Multimedia and Expo Workshop, </i>2023. <br/>
     </p>
@@ -132,8 +117,8 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>23. [ICMEW] A Perceptual Quality Assessment Exploration for AIGC Images</strong> <font color="blue"><a href="../papers/2023perceptual.pdf">[Paper]</a></font><br/>
-      Zicheng Zhang<sup>*</sup>, Chunyi Li<sup>*</sup>, Wei Sun, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai<br/>
+      <strong>28. [ICMEW] A Perceptual Quality Assessment Exploration for AIGC Images</strong> <font color="blue"><a href="../papers/2023perceptual.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang<sup>*</sup>, Chunyi Li<sup>*</sup>, Wei Sun, Xiaohong Liu, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai<br/>
       <i>IEEE International Conference on Multimedia and Expo Workshop, </i>2023. <br/>
     </p>
   </div>
@@ -145,7 +130,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>22. [CVPRW] VDPVE: VQA Dataset for Perceptual Video Enhancement</strong> <font color="blue"><a href="../papers/2023vdpve.pdf">[Paper]</a></font><br/>
+      <strong>27. [CVPRW] VDPVE: VQA Dataset for Perceptual Video Enhancement</strong> <font color="blue"><a href="../papers/2023vdpve.pdf">[Paper]</a></font><br/>
       Yixuan Gao<sup>*</sup>, Yuqin Cao<sup>*</sup>, Tengchuan Kou<sup>*</sup>, Wei Sun, Yunlong Dong, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
       <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop, </i>2023. <br/>
     </p>
@@ -153,14 +138,40 @@ author_profile: true
 </div>
 
 ---
-<!-- 2023hierarchical -->
+<!-- 2023agiqa -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>21. [CVPR] Hierarchical Fine-Grained Image Forgery Detection and Localization</strong> <font color="blue"><a href="../papers/2023hierarchical.pdf">[Paper]</a></font><br/>
-      Xiao Guo, <b><u>Xiaohong Liu</u></b>, Zhiyuan Ren, Steven Grosz, Iacopo Masi, Xiaoming Liu<br/>
-      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2023. <br/>
+      <strong>26. [IEEE TCSVT] AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment</strong> <font color="blue"><a href="../papers/2023agiqa.pdf">[Paper]</a></font><br/>
+      Chunyi Li, Zicheng Zhang, Haoning Wu, Wei Sun, Xiongkuo Min, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Guangtao Zhai<sup><span>&#8224;</span></sup>, Weisi Lin
+      <i>IEEE Transactions on Circuits and Systems for Video Technology, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023pctmfnet -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>25. [TVC] PCTMF-Net: heart sound classification with parallel CNNs-transformer and second-order spectral analysis</strong> <font color="blue"><a href="../papers/2023pctmfnet.pdf">[Paper]</a></font><br/>
+      Rongsheng Wang, Yaofei Duan, Yukun Li, Dashun Zheng, <b><u>Xiaohong Liu</u></b>, Chan Tong Lam, Tao Tan<sup><span>&#8224;</span></sup><br/>
+      <i>The Visual Computer, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023transmrsr -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>24. [TVC] TransMRSR: Transformer-based Self-Distilled Generative Prior for Brain MRI Super-Resolution</strong> <font color="blue"><a href="../papers/2023transmrsr.pdf">[Paper]</a></font><br/>
+      Shan Huang<sup>*</sup>, <b><u>Xiaohong Liu<sup>*</sup></u></b>, Tao Tan, Menghan Hu, Xiaoer Wei<sup><span>&#8224;</span></sup>, Tingli Chen<sup><span>&#8224;</span></sup>, Bin Sheng<sup><span>&#8224;</span></sup><br/>
+      <i>The Visual Computer, </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -171,9 +182,48 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>20. [Display] LightR-YOLOv5: A compact rotating detector for SARS-CoV-2 antigen-detection rapid diagnostic test results</strong> <font color="blue"><a href="../papers/2023lightryolov5.pdf">[Paper]</a></font><br/>
+      <strong>23. [Displays] LightR-YOLOv5: A compact rotating detector for SARS-CoV-2 antigen-detection rapid diagnostic test results</strong> <font color="blue"><a href="../papers/2023lightryolov5.pdf">[Paper]</a></font><br/>
       Rongsheng Wang, Yaofei Duan, Menghan Hu, <b><u>Xiaohong Liu</u></b>, Yukun Li, Qinquan Gao, Tong Tong, Tao Tan<sup><span>&#8224;</span></sup><br/>
-      <i>Display, </i>2023. <br/>
+      <i>Displays, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023sofnet -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>22. [Displays] SOFNet: Optical-flow based large-scale slice augmentation of brain MRI</strong> <font color="blue"><a href="../papers/2023sofnet.pdf">[Paper]</a></font><br/>
+      Bingxin Wei<sup>*</sup>, Yang Wen<sup>*</sup>, <b><u>Xiaohong Liu<sup>*</sup></u></b>, Xing Qi<sup><span>&#8224;</span></sup>, Bin Shen<sup><span>&#8224;</span></sup><br/>
+      <i>Displays, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023resolution -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>21. [IFTC] Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields</strong> <font color="blue"><a href="../papers/2023resolution.pdf">[Paper]</a></font><br/>
+      Yifei Li, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Yicong Peng, Guangtao Zhai, Jun Zhou<sup><span>&#8224;</span></sup>
+      <i>The 20th International Forum of Digital Multimedia Communication, </i>2023. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2023isthere -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>20. [AIS] Is There a Difference between Paper and Electronic Chinese Signatures</strong> <font color="blue"><a href="../papers/2023isthere.pdf">[Paper]</a></font><br/>
+      Jifeng Luo, Yunzhu Pu, Jieyang Yin, <b><u>Xiaohong Liu</u></b>, Tao Tan, Yudong Zhang, Menghan Hu<sup><span>&#8224;</span></sup>
+      <i>Advanced Intelligent Systems, </i>2023. <br/>
     </p>
   </div>
 </div>
@@ -288,7 +338,7 @@ author_profile: true
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>11. [IEEE TBC] Learning for Unconstrained Space-Time Video Super-Resolution</strong> <font color="blue"><a href="../papers/TBC2021.pdf">[Paper]</a></font><br/>
+      <strong>11. [IEEE TBC] Learning for Unconstrained Space-Time Video Super-Resolution</strong> <font color="blue"><a href="../papers/2021learning.pdf">[Paper]</a></font><br/>
       Zhihao Shi, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Chengqi Li, Linhui Dai, Jun Chen, Timothy N Davidson, and Jiying Zhao<br/>
       <i>IEEE Transactions on Broadcasting, </i>2021. <br/>
     </p>
