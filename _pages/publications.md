@@ -8,6 +8,34 @@ author_profile: true
 <sup>*</sup> Equal contribution, <sup><span>&#8224;</span></sup> Corresponding author
 
 ---
+
+---
+<!-- 2024perception -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>38. [CVPR] Perception-Oriented Video Frame Interpolation via Asymmetric Blending</strong> <font color="blue"><a href="../papers/2024perception.pdf">[Paper]</a></font><br/>
+      Guangyang Wu, Xin Tao, Changlin Li, Wwenyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Qingqing Zheng<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024text2qr -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>37. [CVPR] Text2QR: Harmonizing Aesthetic Customization and Scanning Robustness for Text-Guided QR Code Generation</strong> <font color="blue"><a href="../papers/2024text2qr.pdf">[Paper]</a></font><br/>
+      Guangyang Wu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Jun Jia, Xuehao Cui, Guangtao Zhai
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
 <!-- 2023accflow -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
