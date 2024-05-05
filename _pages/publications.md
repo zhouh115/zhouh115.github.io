@@ -7,7 +7,162 @@ author_profile: true
 ---
 <sup>*</sup> Equal contribution, <sup><span>&#8224;</span></sup> Corresponding author
 
+2024
 ---
+<!-- 2024qrefine -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>50. [ICME] Q-Refine: A Perceptual Quality Refiner for AI-Generated Image</strong> <font color="blue"><a href="../papers/2024qrefine.pdf">[Paper]</a></font><br/>
+      Chunyi Li, Haoning Wu, Zicheng Zhang, Hongkun Hao, Kaiwei Zhang, Lei Bai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Xiongkuo Min, Weisi Lin, Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE International Conference on Multimedia and Expo, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024optimizing -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>49. [ICME] Optimizing Projection-based Point Cloud Quality Assessment with Human Preferred Viewpoints Selection</strong> <font color="blue"><a href="../papers/2024optimizing.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang, Yu Fan, Wei Sun, Xiongkuo Min, <b><u>Xiaohong Liu</u></b>, Chunyi Li, Haoning Wu, Weisi Lin, Ning Liu<sup><span>&#8224;</span></sup>, Guangtao Zhai<br/>
+      <i>IEEE International Conference on Multimedia and Expo, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024qboost -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>48. [ICMEW] Q-Boost: On Visual Quality Assessment Ability of Low-level Multi-Modality Foundation Models</strong> <font color="blue"><a href="../papers/2024qboost.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang<sup>*</sup>, Haoning Wu<sup>*</sup>, Zhongpeng Ji, Chunyi Li, Erli Zhang, Wei Sun, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min, Fengyu Sun, Shangling Jui, Weisi Lin, Guangtao Zhai<br/>
+      <i>IEEE International Conference on Multimedia and Expo Workshop, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024aigiqa20k -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>47. [CVPRW] Aigiqa-20k: A large database for ai-generated image quality assessment</strong> <font color="blue"><a href="../papers/2024aigiqa20k.pdf">[Paper]</a></font><br/>
+      Chunyi Li<sup>*</sup>, Tengchuan Kou<sup>*</sup>, Yixuan Gao, Yuqin Cao, Wei Sun, Zicheng Zhang, Yingjie Zhou, Zhichao Zhang, Weixia Zhang, Haoning Wu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024dehazedct -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>46. [CVPRW] DehazeDCT: Towards Effective Non-Homogeneous Dehazing via Deformable Convolutional Transformer</strong> <font color="blue"><a href="../papers/2024dehazedct.pdf">[Paper]</a></font><br/>
+      Wei Dong, Han Zhou, Ruiyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Guangtao Zhai, Jun Chen<br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024shadowrefiner -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>45. [CVPRW] ShadowRefiner: Towards Mask-free Shadow Removal via Fast Fourier Transformer</strong> <font color="blue"><a href="../papers/2024shadowrefiner.pdf">[Paper]</a></font><br/>
+      Wei Dong, Han Zhou<sup><span>&#8224;</span></sup>, Yuqiong Tian, Jingke Sun, <b><u>Xiaohong Liu</u></b>, Guangtao Zhai, Jun Chen<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024attentionlut -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>44. [ICASSP] AttentionLut: Attention Fusion-based Canonical Polyadic LUT for Real-time Image Enhancement</strong> <font color="blue"><a href="../papers/2024attentionlut.pdf">[Paper]</a></font><br/>
+      Kang Fu, Yicong Peng, Zicheng Zhang, Qihang Xu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Jia Wang<sup><span>&#8224;</span></sup>, Guangtao Zhai<br/>
+      <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024aparameterized -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>43. [ICASSP] A Parameterized Generative Adversarial Network Using Cyclic Projection for Explainable Medical Image Classifications</strong> <font color="blue"><a href="../papers/2024aparameterized.pdf">[Paper]</a></font><br/>
+      Xiangyu Xiong, Yue Sun, <b><u>Xiaohong Liu</u></b>, Chan-Tong Lam, Tong Tong, Hao Chen, Qinquan Gao, Wei Ke, Tao Tan<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024areducedreference -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>42. [ICASSP] A Reduced-Reference Quality Assessment Metric for Textured Mesh Digital Humans</strong> <font color="blue"><a href="../papers/2024areducedreference.pdf">[Paper]</a></font><br/>
+      Zicheng Zhang<sup>*</sup>, Yingjie Zhou<sup>*</sup>, Chunyi Li, Kang Fu, Wei Sun, <b><u>Xiaohong Liu</u></b>, Xiongkuo Min<sup><span>&#8224;</span></sup>, Guangtao Zhai<sup><span>&#8224;</span></sup><br/>
+      <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024rawiw -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>41. [Displays] RAWIW: RAW Image Watermarking robust to ISP pipeline</strong> <font color="blue"><a href="../papers/2024rawiw.pdf">[Paper]</a></font><br/>
+      Kang Fu, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Jun Jia, Zicheng Zhang, Yicong Peng, Jia Wang<br/>
+      <i>Displays, </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024projectionaware -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>40. [IEEE ISCAS] PAPS-OVQA: Projection-aware patch sampling for omnidirectional video quality assessment</strong> <font color="blue"><a href="../papers/2024projectionaware.pdf">[Paper]</a></font><br/>
+      Chunyi Li, Zicheng Zhang, Haoning Wu, Kaiwei Zhang, Lei Bai, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Guangtao Zhai<sup><span>&#8224;</span></sup>, Weisi Lin<br/>
+      <i>IEEE International Symposium on Circuits and Systems (ISCAS), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
+---
+<!-- 2024online -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>39. [IEEE TIP] Online video streaming super-resolution with adaptive look-up table fusion</strong> <font color="blue"><a href="../papers/2024online.pdf">[Paper]</a></font><br/>
+      Guanghao Yin<sup>*</sup>, Zefan Qu<sup>*</sup>, Xinyang Jiang<sup><span>&#8224;</span></sup>, Shan Jiang, Zhenhua Han, Ningxin Zheng, Huan Yang, <b><u>Xiaohong Liu</u></b>, Yuqing Yang, Dongsheng Li, Lili Qiu<br/>
+      <i>IEEE Transactions on Image Processing, </i>2024. <br/>
+    </p>
+  </div>
+</div>
 
 ---
 <!-- 2024perception -->
@@ -35,6 +190,7 @@ author_profile: true
   </div>
 </div>
 
+2023
 ---
 <!-- 2023accflow -->
 <div class="row">
@@ -256,6 +412,7 @@ author_profile: true
   </div>
 </div>
 
+2022
 ---
 <!-- 2022learning -->
 <div class="row">
@@ -347,6 +504,7 @@ author_profile: true
   </div>
 </div>
 
+2021
 ---
 <!-- 2021exploit -->
 <div class="row">
@@ -412,6 +570,7 @@ author_profile: true
   </div>
 </div>
 
+2020
 ---
 <!-- 2020endtoend -->
 <div class="row">
@@ -438,6 +597,7 @@ author_profile: true
   </div>
 </div>
 
+2019
 ---
 <!-- 2019griddehazenet -->
 <div class="row">
@@ -477,6 +637,7 @@ author_profile: true
   </div>
 </div>
 
+2018
 ---
 <!-- 2018video -->
 <div class="row">
@@ -490,6 +651,7 @@ author_profile: true
   </div>
 </div>
 
+2017
 ---
 <!-- 2017robust -->
 <div class="row">

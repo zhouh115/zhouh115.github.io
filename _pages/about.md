@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a tenure-track assistant professor at [John Hopcroft Center (JHC) for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). My research interest mainly lies on Computer Vision and Multimedia. I received my Ph.D. degree in [Department of Electrical & Computer Engineering](https://www.eng.mcmaster.ca/ece) at [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Jun Chen](https://www.ece.mcmaster.ca/~junchen/). During the Ph.D., I visited [Computer Vision Lab](http://cvlab.cse.msu.edu/) at [Michigan State University](https://msu.edu/), where I'm adviced by Prof. [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).
+I'm currently a tenure-track assistant professor at [John Hopcroft Center (JHC) for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). My research interest mainly lies on Computer Vision and Multimedia. I received my Ph.D. degree in [Department of Electrical & Computer Engineering](https://www.eng.mcmaster.ca/ece) at [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Jun Chen](https://www.ece.mcmaster.ca/~junchen/). During the Ph.D., I visited [Computer Vision Lab](http://cvlab.cse.msu.edu/) at [Michigan State University](https://msu.edu/) adviced by Prof. [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).
 
 
-I received the Shanghai Pujiang Talent Program in 2022, the Chinese Government Award for Outstanding Self-financed Students Abroad in 2021, a Canada Graduate Scholarship from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2021, and a [Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/) in 2020. My research has been supported by the Young Scientists Fund of the National Natural Science Foundation of China, and many big tech companies.
+I was selected as the Microsoft Research Asia StarTrack Scholar in 2024. I received the Shanghai Pujiang Talent Program in 2022, the Chinese Government Award for Outstanding Self-financed Students Abroad in 2021, a Canada Graduate Scholarship from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2021, and a [Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/) in 2020. My research has been supported by the Young Scientists Fund of the National Natural Science Foundation of China, and many big tech companies.
 
 <b>Lab Website: [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/)</b>
 
@@ -19,7 +19,7 @@ I received the Shanghai Pujiang Talent Program in 2022, the Chinese Government A
 ======
 I am always looking for enthusiastic and self-motivated students to work together on computer vision and mutimedia related topics. Please email me with your CV and transcripts if you are interested.
 
-<b><font color="#4682B4">There are one master’s position and one postdoc position available in Fall 2024. Please contact me ASAP if interested.</font></b>
+<b><font color="#4682B4">There are one master’s position and Ph.D. position available in Fall 2025. Please contact me ASAP if interested.</font></b>
 
 🔥 News
 ======
@@ -47,7 +47,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   **[CVPR]** Perception-Oriented Video Frame Interpolation via Asymmetric Blending
   - Guangyang Wu, Xin Tao, Changlin Li, Wwenyi Wang, <b><u>Xiaohong Liu<sup><span>&#8224;</span></sup></u></b>, Qingqing Zheng<sup><span>&#8224;</span></sup>
   - <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), </i>2024. 
-  - <a href="papers/2024perception.pdf">[Paper]</a> <a href="https://github.com/mulns/PerVFI">[Code]</a>
+  - <a href="papers/2024perception.pdf">[Paper]</a> <a href="https://mulns.github.io/pervfi-page/">[Project Page]</a> <a href="https://github.com/mulns/PerVFI">[Code]</a>
   <!-- - [**[Paper]**](papers/2024perception.pdf) [**[Code]**](https://github.com/mulns/PerVFI) -->
   </div>
 </div>
@@ -140,6 +140,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 Services
 ======
 ## Professional Service:
+* ICICSP 2024 Special Session Chair
 * NTIRE 2024 Quality Assessment of AI-Generated Content Challenge Organizer
 * Serve as an Associate Editor of the ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) from Jan. 2024
 * NTIRE 2023 Quality Assessment of Video Enhancement Challenge Organizer
