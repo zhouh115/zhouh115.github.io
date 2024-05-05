@@ -40,7 +40,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2024 (Spotlight)</div> -->
-      <img src='images/publications/2024perception.png' alt="sym" width="100%">
+      <img src='images/publications/2024perception.png' class="img-fluid" alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -52,7 +52,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   </div>
 </div>
 
----
+
 <!-- 2024text2qr -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -69,7 +69,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   </div>
 </div>
 
----
+
 <!-- 2023accflow -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -86,7 +86,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   </div>
 </div>
 
----
+
 <!-- 2023hierarchical -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -103,7 +103,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   </div>
 </div>
 
----
+
 <!-- 2022interpolation -->
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -120,7 +120,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   </div>
 </div>
 
----
+
 <!-- 2019griddehazenet -->
 <div class='paper-box'>
   <div class='paper-box-image'>
