@@ -9,6 +9,18 @@ author_profile: true
 
 2024
 ---
+<!-- 2024diffstega -->
+<div class="row">
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>51. [IJCAI] DiffStega: Towards Universal Training-Free Coverless Image Steganography with Diffusion Models</strong> <font color="blue"><a href="../papers/2024diffstega.pdf">[Paper]</a></font><br/>
+      Yiwei Yang<sup>*</sup> , Zheyuan Liu<sup>*</sup> , Jun Jia<sup><span>&#8224;</span></sup> , Zhongpai Gao, Yunhao Li, Wei Sun, <b><u>Xiaohong Liu</u></b> and Guangtao Zhai1<sup><span>&#8224;</span></sup><br/>
+      <i>International Joint Conferences on Artificial Intelligence (IJCAI), </i>2024. <br/>
+    </p>
+  </div>
+</div>
+
 <!-- 2024qrefine -->
 <div class="row">
   <div class="column middle">&nbsp;</div>
