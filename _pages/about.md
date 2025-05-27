@@ -8,18 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a tenure-track assistant professor at [John Hopcroft Center (JHC) for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). My research interest mainly lies on Computer Vision and Multimedia. I received my Ph.D. degree in [Department of Electrical & Computer Engineering](https://www.eng.mcmaster.ca/ece) at [McMaster University](https://www.mcmaster.ca/), supervised by Prof. [Jun Chen](https://www.ece.mcmaster.ca/~junchen/). During the Ph.D., I visited [Computer Vision Lab](http://cvlab.cse.msu.edu/) at [Michigan State University](https://msu.edu/) adviced by Prof. [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).
+I'm currently a PhD candidate in [The Department of Electrical & Computer Engineering](https://www.eng.mcmaster.ca/ece/) at [McMaster University](https://www.mcmaster.ca/). My research work mainly lies on Computer Vision and Deep Learning, supervised by Prof. [Jun Chen](https://www.ece.mcmaster.ca/~junchen/). Besides, I am actively engaged in ongoing research collaborations with Prof. Guangtao Zhai, Prof. Yulun Zhang, and Prof. Xiaohong Liu.
 
 
-I was selected as the Microsoft Research Asia StarTrack Scholar in 2024. I received the Shanghai Pujiang Talent Program in 2022, the Chinese Government Award for Outstanding Self-financed Students Abroad in 2021, a Canada Graduate Scholarship from Natural Sciences and Engineering Research Council of Canada (NSERC) in 2021, and a [Borealis AI Fellowship](https://www.borealisai.com/en/blog/borealis-ai-graduate-fellowships-class-2020/) in 2020. My research has been supported by the Young Scientists Fund of the National Natural Science Foundation of China, and many big tech companies.
+My research interests mainly lie in the fields of computer vision and deep learning, and particularly in:
 
-<b>Lab Website: [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/)</b>
+- Image/Video Restoration and Enhancement
+- 3D Reconstruction
+- Large Language Models and Image/Video Generation
 
-🎯 Prospective Students
+**🔍 I am currently on the academic job market, seeking both tenure-track faculty positions and postdoctoral opportunities in Computer Vision and Machine Learning.**
+
+
+🎯 Future Collaborators
 ======
-I am always looking for enthusiastic and self-motivated students to work together on computer vision and mutimedia related topics. Please email me with your CV and transcripts if you are interested.
+I am always open to academic collaboration. Besides, I am also eager to explore cross-disciplinary research, such as leveraging generative AI in healthcare, education, and industrial systems.
 
-<b><font color="#4682B4">There are one master’s position and Ph.D. position available in Fall 2025. Please contact me ASAP if interested.</font></b>
 
 🔥 News
 ======
