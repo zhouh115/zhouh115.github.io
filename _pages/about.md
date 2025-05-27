@@ -17,23 +17,15 @@ My research interests mainly lie in the fields of computer vision and deep learn
 - 3D Reconstruction
 - Large Language Models and Image/Video Generation
 
-
+🔍 Academic Position Seeking
+======
+I am currently on the academic job market, seeking both tenure-track faculty positions and postdoctoral opportunities in Computer Vision and Machine Learning.
 
 
 🎯 Future Collaborators
 ======
 I am always open to academic collaboration. Besides, I am also eager to explore cross-disciplinary research, such as leveraging generative AI in healthcare, education, and industrial systems.
 
-
-🔥 News
-======
-* [2024/4] &nbsp; One paper is accepted by IJCAI 2024
-* [2024/2] &nbsp; Two papers are accepted by CVPR 2024
-* [2023/7] &nbsp; Three papers are accepted by ACM MM 2023 <font color="red">(Two orals!)</font>
-* [2023/7] &nbsp; One paper is accepted by ICCV 2023
-* [2023/3] &nbsp; One paper is accepted by CVPR 2023
-* [2022/9] &nbsp; One paper is accepted by NeurIPS 2022
-* [2022/3] &nbsp; One paper is accepted by CVPR 2022
 
 📝 Selected Publications
 ======
