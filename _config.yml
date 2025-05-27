@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaohong Liu"
+title                    : "Han Zhou"
 title_separator          : ""
-name                     : &name "Xiaohong Liu"
+name                     : &name "Han Zhou"
 description              : &description "personal description"
 url                      : https://jhc.sjtu.edu.cn/~xiaohongliu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaohong Liu"
-  alias            : "刘笑宏"
-  avatar           : "newface.jpg"
-  bio              : "上海市领军人才（海外）</br>Tenure-Track Assistant Professor at SJTU"
-  location         : "Shanghai, China"
+  name             : "Han Zhou"
+  alias            : "周晗"
+  avatar           : #"newface.jpg"
+  bio              : "PhD Candicate at McMaster University"
+  location         : "Hamilton, Ontario, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.ca/citations?user=Tq2hoMQAAAAJ&hl=en"
-  email            : "xiaohongliu@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=dlcOwwkAAAAJ&hl=zh-CN"
+  email            : "zhouh115@mcmaster.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "proteus1991"
+  github           : "zhouh115"
   google_plus      :
   keybase          :
   instagram        :
