@@ -18,7 +18,7 @@ My research interests mainly lie in the fields of computer vision and deep learn
 - Large Language Models and Image/Video Generation
 
 🔍 Academic Position Seeking
-
+======
 **I am currently on the academic job market, seeking both tenure-track faculty positions and postdoctoral opportunities in Computer Vision and Machine Learning.**
 
 
